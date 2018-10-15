@@ -1,0 +1,13 @@
+C:\Users\Motooooor\Documents\Visual Studio 2015\Projects\CSharp\WaiGuaTest\WaiGuaTest\bin\Release\WaiGuaTest.exe.config
+C:\Users\Motooooor\Documents\Visual Studio 2015\Projects\CSharp\WaiGuaTest\WaiGuaTest\bin\Release\WaiGuaTest.exe
+C:\Users\Motooooor\Documents\Visual Studio 2015\Projects\CSharp\WaiGuaTest\WaiGuaTest\bin\Release\WaiGuaTest.pdb
+C:\Users\Motooooor\Documents\Visual Studio 2015\Projects\CSharp\WaiGuaTest\WaiGuaTest\bin\Release\zh-Hans\WaiGuaTest.resources.dll
+C:\Users\Motooooor\Documents\Visual Studio 2015\Projects\CSharp\WaiGuaTest\WaiGuaTest\bin\Release\WindowsInput.dll
+C:\Users\Motooooor\Documents\Visual Studio 2015\Projects\CSharp\WaiGuaTest\WaiGuaTest\bin\Release\WindowsInput.xml
+C:\Users\Motooooor\Documents\Visual Studio 2015\Projects\CSharp\WaiGuaTest\WaiGuaTest\obj\Release\WaiGuaTest.theMainForm.resources
+C:\Users\Motooooor\Documents\Visual Studio 2015\Projects\CSharp\WaiGuaTest\WaiGuaTest\obj\Release\WaiGuaTest.Properties.Resources.resources
+C:\Users\Motooooor\Documents\Visual Studio 2015\Projects\CSharp\WaiGuaTest\WaiGuaTest\obj\Release\WaiGuaTest.theMainForm.zh-Hans.resources
+C:\Users\Motooooor\Documents\Visual Studio 2015\Projects\CSharp\WaiGuaTest\WaiGuaTest\obj\Release\WaiGuaTest.csproj.GenerateResource.Cache
+C:\Users\Motooooor\Documents\Visual Studio 2015\Projects\CSharp\WaiGuaTest\WaiGuaTest\obj\Release\zh-Hans\WaiGuaTest.resources.dll
+C:\Users\Motooooor\Documents\Visual Studio 2015\Projects\CSharp\WaiGuaTest\WaiGuaTest\obj\Release\WaiGuaTest.exe
+C:\Users\Motooooor\Documents\Visual Studio 2015\Projects\CSharp\WaiGuaTest\WaiGuaTest\obj\Release\WaiGuaTest.pdb
